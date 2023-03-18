@@ -1,0 +1,10 @@
+.bp-item{
+    height: 500px;
+}
+
+.bp-img{
+    width: 6000px;
+    height: 100%;
+    object-fit: cover;
+
+}

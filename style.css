@@ -1,0 +1,16 @@
+.profilepic{
+    object-fit: none;
+    object-position: -321px 24%;
+    border-radius: 3000px;
+    box-shadow: 26px 21px 55px 14px rgb(0 0 0 / 62%);
+    -webkit-box-shadow: 26px 21px 55px 14px rgb(0 0 0 / 62%);
+    -moz-box-shadow: 26px 21px 55px 14px rgba(0,0,0,0.62);
+}
+#projects{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+#blog{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
